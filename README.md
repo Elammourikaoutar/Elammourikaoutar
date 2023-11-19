@@ -8,10 +8,10 @@
 
 ### Connect with me 🌐 :
 
-[<img align="left" alt="zkara.ml" width="34px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Salah-Zkara | Twitter" src="https://img.icons8.com/fluent/34/000000/twitter.png" />][twitter]
-[<img align="left" alt="Salah-Zkara | LinkedIn" src="https://img.icons8.com/fluent/34/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Salah-Zkara | Instagram" src="https://img.icons8.com/fluent/34/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="k" width="34px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="k | Twitter" src="https://img.icons8.com/fluent/34/000000/twitter.png" />][twitter]
+[<img align="left" alt="k| LinkedIn" src="https://img.icons8.com/fluent/34/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="k | Instagram" src="https://img.icons8.com/fluent/34/000000/instagram-new.png" />][instagram]
 
 <br />
 <br />
